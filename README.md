@@ -1,6 +1,6 @@
 # dsc_projects
 
-A new Flutter project.
+A flutter project to showcase dsc projects.
 
 ## Getting Started
 
