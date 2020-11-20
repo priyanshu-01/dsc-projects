@@ -4,7 +4,7 @@ class Dashboard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      color: Colors.black,
+      color: Colors.red,
       child: Center(
         child: Text('Dashboard page'),
       ),
